@@ -1,10 +1,16 @@
-body {
-  background-color: bisque;
+/* body {
+  background-color: rgb(255, 0, 0);
 }
-div {
-  background-color: darkblue;
-  color: white;
+/* div {
+  background-color: antiquewhite;
+  width: 30%;
+  margin: auto;
+  margin-top: 50px;
+  padding-left: 35%;
+  padding-right: 35%;
   position: fixed;
 
-  border-radius: 3px solid purple; /*relative   top,bottom right and left works in relative position */
+  border-radius: 30px solid greenyellow;
+} */
+div.fixed { top: 0; left: 0; right: 0; bottom: 0; background-color: lightblue; padding: 20px; border-radius: 10px ; }
 }

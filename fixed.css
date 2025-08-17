@@ -1,0 +1,10 @@
+body {
+  background-color: bisque;
+}
+div {
+  background-color: darkblue;
+  color: white;
+  position: fixed;
+  
+  border-radius: 3px solid purple; relative top,bottom right and left works in relative position
+}

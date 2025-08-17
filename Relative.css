@@ -1,0 +1,13 @@
+/* body {
+  background-color: bisque;
+}
+div {
+  background-color: darkblue;
+  color: white;
+  position: relative;
+  right: 30px;
+  left: 30px;
+  top: 30px;
+  bottom: 30px;
+  border-radius: 3px solid purple; /*relative top,bottom right and left works in relative position
+} */

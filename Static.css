@@ -1,0 +1,12 @@
+/* body {
+  background-color: rgb(215, 215, 235);
+}
+div {
+  background-color: darkblue;
+  color: white;
+  position: static;
+  left: 50px; /*static up,down , bottom, left and right does not work*/
+
+  border-radius: 3px solid purple;
+
+} 

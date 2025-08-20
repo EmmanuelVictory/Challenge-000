@@ -1,7 +1,6 @@
 body {
-  /* background-color: hsl(0, 0%, 8%); */
-  background-image: url(design/destkop-design.jpg);
-}
+  background-color: hsl(0, 0%, 8%);
+  /* background-image: url(design/mobile-design.jpg) */
 div {
   background-color: hsl(0, 0%, 12%);
   width: 30%;
@@ -46,7 +45,7 @@ p {
 }
 #h5:hover {
   background-color: rgb(255, 230, 2);
-  font-size: 30px;
+  font-size: 20px;
   cursor: pointer;
 }
 

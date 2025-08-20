@@ -38,6 +38,9 @@ h5 {
   font-size: 2rem;
   padding-left: -10px;
   padding-right: -10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-top: -5px;
 }
 h5:hover {
   background-color: rgb(255, 230, 2);

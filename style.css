@@ -34,7 +34,7 @@ h5 {
   text-align: center;
   padding-top: 6px;
   padding-bottom: 6px;
-
+  border-radius: 10px;
   font-size: 2rem;
 }
 h5:hover {

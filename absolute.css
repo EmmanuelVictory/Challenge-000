@@ -4,9 +4,11 @@
 
 div {
   background-color: rgb(255, 3, 3);
+  margin-right: 35%;
   color: white;
   position: absolute;
   width: 30%;
+  top: 0;
   margin-left: 35%;
 
   margin-top: 80px;
@@ -21,4 +23,8 @@ nav {
 }
 h1 {
   padding-bottom: 20px;
+}
+nav.shoe {
+  font-size: large;
+  background-color: rgb(177, 172, 172);
 } */
